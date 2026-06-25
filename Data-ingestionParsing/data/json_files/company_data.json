@@ -1,0 +1,71 @@
+{
+  "company": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "projects": [
+        {
+          "name": "RAG System",
+          "status": "In Progress"
+        },
+        {
+          "name": "Data Pipeline",
+          "status": "Completed"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Data Scientist",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+      ],
+      "projects": [
+        {
+          "name": "Customer Analytics",
+          "status": "Completed"
+        },
+        {
+          "name": "Predictive Model",
+          "status": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "name": "Infrastructure Setup",
+          "status": "Completed"
+        },
+        {
+          "name": "CI/CD Pipeline",
+          "status": "In Progress"
+        }
+      ]
+    }
+  ],
+  "departments": [
+    "Engineering",
+    "Data Science",
+    "DevOps"
+  ],
+  "location": "San Francisco"
+}

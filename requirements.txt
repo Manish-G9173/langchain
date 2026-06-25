@@ -7,3 +7,10 @@ sentence-transformers
 python-dotenv 
 pandas 
 Langchain-openai
+python-docx
+docx2txt
+unstructured
+pdfminer
+pandas
+openpyxl
+jq
