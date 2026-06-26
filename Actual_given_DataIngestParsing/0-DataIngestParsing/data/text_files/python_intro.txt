@@ -1,0 +1,2 @@
+
+Python is widely used in web development, data science, artificial intelligence, and automation.
